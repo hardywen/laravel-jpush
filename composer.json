@@ -1,0 +1,21 @@
+{
+    "name": "hardywen/laravel-jpush",
+    "description": "",
+    "authors": [
+        {
+            "name": "HardyWen",
+            "email": "hardywen@foxmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "illuminate/support": "4.2.*",
+        "jpush/jpush": "v3.2.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "Hardywen\\LaravelJpush": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
