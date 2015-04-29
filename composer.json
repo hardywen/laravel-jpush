@@ -1,6 +1,7 @@
 {
     "name": "hardywen/laravel-jpush",
     "description": "",
+    "license": "MIT",
     "authors": [
         {
             "name": "HardyWen",
